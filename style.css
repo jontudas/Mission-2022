@@ -20,6 +20,7 @@ p {
 
 .banner-section {
     padding-bottom: 35px;
+    padding-top: 24px;
 }
 .haftpersen {
     width: 50%;
@@ -30,8 +31,9 @@ span {
 .haftpersen h2 {
     font-family: 'Yeseva One', cursive;
     font-size: 41px;
-    line-height: 59px;
-    padding-top: 72px;
+    line-height: 48px;
+    padding: 2px 19px;
+    border-left: 5px solid #FFAD5A;
 }
 .haftpersen p {
     color: #3E3E3E;
